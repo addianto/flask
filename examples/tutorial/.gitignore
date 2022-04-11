@@ -12,3 +12,6 @@ build/
 .idea/
 *.swp
 *~
+
+## Custom files/folders to ignore
+entrypoint-production.sh
