@@ -1,0 +1,4 @@
+# Files & folders to ignore when building container image
+.pytest_cache/
+venv/
+**/__pycache__/
